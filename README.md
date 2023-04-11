@@ -15,9 +15,10 @@ Steps:
    b. Place the information into iterable sequences (list of lists?)
 4. Weigh Growth by time
    a. Run through all the future information for:
-      - Last 1 years
-      - Last 5 years
-      - Last 20 years
+      - 20% Last 1 years
+      - 30% Last 3 years
+      - 30% Last 10 years
+      - 20% Last 20 years
 5. Math Function
    a. Adjust stock prices for inflation using CPI
    b. Utilize numpy code to derive slope and y-intercept for real stock price given time
